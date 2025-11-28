@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code
+.vscode/
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Dependencies
+node_modules/
+
+# Environment files
+appsettings.Development.json
+*.env
+
+# Logs
+*.log
